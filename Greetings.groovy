@@ -1,7 +1,7 @@
 package firstgroovyproject
 /* it is just demo the parsing of xml, for a trade request
 also json for limit enquiry response
-just change on comment for test GitHub
+just change on comment for test GitHub 2
 */
 
 import groovy.json.JsonSlurper
